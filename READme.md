@@ -15,7 +15,6 @@
 
 - Nextjs
 - Express
-- MongoDB
 - Razorpay
 - Google API
 - Geocode API
